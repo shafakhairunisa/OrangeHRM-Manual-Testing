@@ -16,8 +16,8 @@ This repository contains my personal manual testing project on the [OrangeHRM op
 | Item | Detail |
 |---|---|
 | Test management | Google Sheets / Excel |
-| Browser | [Browser + version, e.g. Chrome 130] |
-| OS | [e.g. Windows 11] |
+| Browser | Google Chrome 155 |
+| OS | Windows 11 |
 | Application under test | OrangeHRM 5 demo (`opensource-demo.orangehrmlive.com`) |
 | Test credentials | Public demo account shown on the login page |
 
@@ -59,7 +59,7 @@ Scenario mix: 32 Positive, 41 Negative, 24 Edge.
 | Attendance | 18 | [ ] | [ ] | [ ] |
 | **Total** | **97** | **[ ]** | **[ ]** | **[ ]** |
 
-**Key findings:** [Summarize the main observations or defects here. Write "No critical defects found" only if that is what you actually observed.]
+**Key findings:** No critical defects found" only if that is what you actually observed.
 
 ## 📁 Deliverables
 
